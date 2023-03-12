@@ -21,3 +21,8 @@
 - Pequenos ajustes podem quebrar o codigo, inclusive em outras partes do sistema
 - Dificuldade para executar e criar testes unitarios
 - Dificuldade de reaproveitar codigo para outras aplicações. 
+
+### Exemplos com padrão Strategy
+### Exemplos com padrão Factory
+### Exemplos com padrão Template Method
+### Exemplos com padrão Decorator
